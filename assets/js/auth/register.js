@@ -60,7 +60,7 @@ form_register.onsubmit = async (e) => {
   else if (response.status == 422) {
     const json = await response.json();
 
-    errorNotification(json.message, 5);
+    alert(json);
   }
   
   // Enable Button
