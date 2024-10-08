@@ -1,6 +1,6 @@
 import { setRouter } from "../router/router.js";
 
-const backendURL = 'https://2c6c-103-80-142-206.ngrok-free.app/QuestCareer/public';
+const backendURL = 'https://2939-180-195-147-9.ngrok-free.app/QuestCareer/public';
 // Set Router
 setRouter();
 
